@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cra_multiselect_component/static/css/main.b443b482.css",
+    "main.js": "/cra_multiselect_component/static/js/main.10db4a43.js",
+    "index.html": "/cra_multiselect_component/index.html",
+    "main.b443b482.css.map": "/cra_multiselect_component/static/css/main.b443b482.css.map",
+    "main.10db4a43.js.map": "/cra_multiselect_component/static/js/main.10db4a43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b443b482.css",
+    "static/js/main.10db4a43.js"
+  ]
+}
